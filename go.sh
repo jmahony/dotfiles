@@ -17,5 +17,5 @@ ln -sfv "$DOTFILES_DIR/git/gitconfig" "$HOME/.gitconfig"
 ln -sfv "$DOTFILES_DIR/git/gitignore_global" "$HOME/.gitignore_global"
 
 if [ "$(uname)" == "Darwin" -a -f "$DOTFILES_DIR/install/osx.sh" ]; then
-	source "$DOTFILES_DIR/install/osx.sh"
+    source "$DOTFILES_DIR/install/osx.sh"
 fi
