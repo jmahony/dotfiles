@@ -11,10 +11,10 @@ cd $DOTFILES_DIR
 git submodule update --init
 
 # Link stuff
-ln -sfv "$DOTFILES_DIR/zsh/.zshrc" ~
-ln -sfv "$DOTFILES_DIR/vim/.vimrc" ~
-ln -sfv "$DOTFILES_DIR/git/.gitconfig" ~
-ln -sfv "$DOTFILES_DIR/git/.gitignore_global" ~
+ln -sfv "$DOTFILES_DIR/zsh/zshrc" "$HOME/.zshrc"
+ln -sfv "$DOTFILES_DIR/vim/vimrc" "$HOME/.vimrc"
+ln -sfv "$DOTFILES_DIR/git/gitconfig" "$HOME/.gitconfig"
+ln -sfv "$DOTFILES_DIR/git/gitignore_global" "$HOME/.gitignore_global"
 
 if [ "$(uname)" == "Darwin" -a -f "$DOTFILES_DIR/install/osx.sh" ]; then
 	source "$DOTFILES_DIR/install/osx.sh"
