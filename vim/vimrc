@@ -59,4 +59,3 @@ set incsearch     " show search matches as you type
 
 "set list
 "set listchars=tab:>.,trail:.,extends:#,nbsp:.
-
