@@ -16,6 +16,5 @@ brew install tree
 brew install vim
 brew install wget
 brew install ghc
-brew install z
 brew install postgresql
 brew install tree

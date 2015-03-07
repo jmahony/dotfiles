@@ -8,7 +8,7 @@ plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
 
-. /usr/local/Cellar/z/1.8/etc/profile.d/z.sh
+. $HOME/dotfiles/lib/z/z.sh
 
 export PATH=$PATH:/usr/local/Cellar/oath-toolkit/2.4.0/bin
 
