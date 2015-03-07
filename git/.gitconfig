@@ -1,6 +1,8 @@
 [user]
 	name = Josh Mahony
 	email = jalmahony@gmail.com
+[core]
+    editor = vim
 [push]
 	default = simple
 [alias]
