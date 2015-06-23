@@ -3,6 +3,7 @@
     email = jalmahony@gmail.com
 [core]
     editor = vim
+    excludesfile = ~/.gitignore_global
 [push]
     default = simple
 [alias]
