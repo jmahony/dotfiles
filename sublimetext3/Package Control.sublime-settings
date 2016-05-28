@@ -1,0 +1,49 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Ant",
+		"Ant Buildfile",
+		"ApacheConf.tmLanguage",
+		"Devastate",
+		"DocBlockr",
+		"EasyDiff",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"GoSublime",
+		"Grunt",
+		"HTML Mustache",
+		"JavaScript Completions",
+		"JsFormat",
+		"JSX",
+		"LaTeX Snippets",
+		"LaTeXTools",
+		"Material Theme",
+		"Numix Theme",
+		"Package Control",
+		"RedBeanPHP ORM Snippets",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeHighlight",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-php",
+		"Super Ant",
+		"Theme - Piatto",
+		"Theme - Spacegray",
+		"TrailingSpaces",
+		"VIM Navigation",
+		"Vintageous"
+	],
+	"repositories":
+	[
+		"https://github.com/n1k0/SublimeHighlight/tree/python3"
+	]
+}

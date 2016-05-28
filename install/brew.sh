@@ -11,10 +11,8 @@ brew cask cleanup
 brew install git
 brew install node
 brew install python
-brew install svn
 brew install tree
 brew install vim
 brew install wget
 brew install ghc
 brew install postgresql
-brew install tree
