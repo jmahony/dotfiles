@@ -1,5 +1,9 @@
 {
-    "live_mode": false,
-	"non_blocking": false,
-	"show_markers_on_untracked_file" : false
+  "git_binary": "",
+  "live_mode": false,
+  "focus_change_mode": false,
+  "non_blocking": true,
+  "ignore_whitespace": "none",
+  "show_markers_on_untracked_file": true,
+  "patience": true
 }

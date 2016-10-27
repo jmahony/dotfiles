@@ -1,4 +1,17 @@
 {
+	"added_words":
+	[
+		"lodash",
+		"utils",
+		"Url",
+		"fontello",
+		"mom",
+		"btn",
+		"alt",
+		"animationend",
+		"concat",
+		"Redux"
+	],
 	"always_show_minimap_viewport": false,
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 0,
@@ -17,6 +30,10 @@
 	"ignored_packages":
 	[
 		"Vintage"
+	],
+	"ignored_words":
+	[
+		"md"
 	],
 	"indent_guide_options":
 	[
