@@ -2,7 +2,7 @@
   "git_binary": "",
   "live_mode": true,
   "focus_change_mode": false,
-  "non_blocking": true,
+  "non_blocking": false,
   "ignore_whitespace": "none",
   "show_markers_on_untracked_file": true,
   "patience": true

@@ -12,7 +12,10 @@
 		"concat",
 		"Redux",
 		"Modals",
-		"redux"
+		"redux",
+		"versioning",
+		"Yay",
+		"etc"
 	],
 	"always_show_minimap_viewport": false,
 	"bold_folder_labels": true,
