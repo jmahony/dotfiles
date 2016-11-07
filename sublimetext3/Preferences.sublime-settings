@@ -10,7 +10,9 @@
 		"alt",
 		"animationend",
 		"concat",
-		"Redux"
+		"Redux",
+		"Modals",
+		"redux"
 	],
 	"always_show_minimap_viewport": false,
 	"bold_folder_labels": true,
