@@ -15,7 +15,10 @@
 		"redux",
 		"versioning",
 		"Yay",
-		"etc"
+		"etc",
+		"unhandled",
+		"api",
+		"Globals"
 	],
 	"always_show_minimap_viewport": false,
 	"bold_folder_labels": true,
@@ -23,7 +26,7 @@
 	"caret_extra_top": 0,
 	"caret_extra_width": 0,
 	"caret_style": "blink",
-	"color_scheme": "Packages/Behave Color Scheme/Behave.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Afterglow-monokai (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"draw_white_space": "all",
 	"font_options":
