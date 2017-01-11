@@ -16,4 +16,6 @@ cmd /c mklink "C:\Users\Josh\AppData\Roaming\Sublime Text 3\Packages\User\Packag
 cmd /c mklink "C:\Users\Josh\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings" "C:\Users\Josh\dotfiles\sublimetext3\Preferences.sublime-settings"
 cmd /c mklink "C:\Users\Josh\AppData\Roaming\Sublime Text 3\Packages\User\SublimeLinter.sublime-settings" "C:\Users\Josh\dotfiles\sublimetext3\SublimeLinter.sublime-settings"
 cmd /c mklink "C:\Users\Josh\AppData\Roaming\Sublime Text 3\Packages\User\Default (Windows).sublime-keymap" "C:\Users\Josh\dotfiles\sublimetext3\Default (Windows).sublime-keymap"
+
+cmd /c mklink "C:\Users\Josh\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1" "C:\Users\Josh\dotfiles\windows\Microsoft.PowerShell_profile.ps1"
 ```
