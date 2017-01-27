@@ -63,7 +63,7 @@
 	"show_errors_inline": true,
 	"spell_check": true,
 	"tab_size": 2,
-	"theme": "Material Behave.sublime-theme",
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"use_tab_stops": true,
 	"wide_caret": true

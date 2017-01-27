@@ -25,3 +25,5 @@ function Prompt() {
 Import-Module ($PowerShellScriptsPath + 'prompt.ps1')
 
 Import-Module ($PowerShellScriptsPath + 'posh_git_colours.ps1')
+
+New-Alias toggleip $PowerShellScriptsPath\ToggleWebConfigIPLocalhost.ps1
