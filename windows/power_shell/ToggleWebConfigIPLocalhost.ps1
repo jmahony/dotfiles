@@ -1,4 +1,6 @@
-﻿$remote = "172.16.9.186"
+﻿$ip=get-WmiObject Win32_NetworkAdapterConfiguration|Where {$_.Ipaddress.length -gt 1}
+
+$remote = $ip.ipaddress[0]
 $local = "localhost"
 
 $projectPath = "C:\Projects\<project>"
