@@ -1,7 +1,7 @@
 ﻿$remote = "172.16.9.186"
 $local = "localhost"
 
-$projectPath = "C:\Projects\MasterOfMalt"
+$projectPath = "C:\Projects\<project>"
 
 $replacement = $remote
 $search = $local
