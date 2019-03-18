@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"ActualVim",
 		"Babel",
 		"Behave Color Scheme",
 		"Block Cursor Everywhere",
@@ -12,24 +13,27 @@
 		"Color Highlighter",
 		"Colorsublime",
 		"DiffTabs",
+		"Diffy",
 		"ES6-Toolkit",
-		"GitGutter-Edge",
+		"Format JSDoc @params",
+		"GitGutter",
 		"HTMLBeautify",
+		"JsPrettier",
 		"JSX",
 		"Materialize",
+		"NeoVintageous",
 		"Package Control",
 		"PowerShell",
 		"Pretty JSON",
 		"React ES6 Snippets",
 		"SCSS",
 		"SideBarEnhancements",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
-		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-eslint",
 		"Theme - Afterglow",
 		"Theme - Alpenglow",
-		"TypeScript",
-		"Vintageous"
+		"Vintageous",
+		"Whitespace"
 	]
 }
