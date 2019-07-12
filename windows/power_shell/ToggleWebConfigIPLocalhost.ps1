@@ -3,7 +3,7 @@
 $remote = $ip.ipaddress[0]
 $local = "localhost"
 
-$projectPath = "C:\Projects\<project>"
+$projectPath = "C:\Projects\MasterOfMalt"
 
 $replacement = $remote
 $search = $local

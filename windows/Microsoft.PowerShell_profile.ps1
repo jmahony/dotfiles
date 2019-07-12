@@ -8,4 +8,6 @@ Import-Module ($env:USERPROFILE + '\Documents\WindowsPowerShell\Modules\Jump.Loc
 # Load Prompt
 Import-Module ($PowerShellScriptsPath + 'prompt.ps1')
 
+$GitPromptSettings.DefaultPromptAbbreviateHomeDirectory = $true
+
 New-Alias toggleip $PowerShellScriptsPath\ToggleWebConfigIPLocalhost.ps1
